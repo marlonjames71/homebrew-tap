@@ -1,5 +1,5 @@
 class Ow < Formula
-  desc "Manage macOS Open With defaults from the command line"
+  desc "Manage macOS Open With defaults from the command-line"
   homepage "https://github.com/marlonjames71/OW-CLI"
   url "https://github.com/marlonjames71/OW-CLI/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "98c46dbc2b20b41593d32fc73f91f45e75df37d66332ad955156fa0e5d3c5f3e"
